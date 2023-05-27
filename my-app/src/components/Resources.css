@@ -1,0 +1,58 @@
+.main-Container{
+   display: flex;
+}
+@media only screen and (max-width: 600px) {
+   .main-Container {
+     display: flex;
+     flex-direction: column;
+   }
+ }
+.card-title{
+   text-align: center;
+   font-size: 30px;
+   color:white;
+   text-decoration: none;
+   background-color: #3F71EA;
+}
+.main-product-conainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.heading{
+    font-size: 30px;
+    background-color: #4085f5;
+    color: aliceblue;
+    padding: 10px;
+ }
+ .main-para{
+    font-size: small;
+ }
+ .benefits-container{
+    text-align: center;
+    
+ }
+ .main-heading{
+    color: #4085f5 !important;
+    text-align: center;
+ }
+ .upvc-img{
+    height: 200px;
+ }
+ .heading-style{
+    background-color: #4085f5;
+    color: aliceblue;
+    padding: 5px;
+    margin: 5px;
+ }
+.top-heading{
+   font-size: 35px;
+   text-align: center;
+   background-color: #4085f5;
+   color: aliceblue;
+margin-top: 100px;
+padding: 10px;
+}
+ .Top-container{
+   margin-top: 100px;
+ }

@@ -1,0 +1,39 @@
+.topnav{
+    width: 140px;
+    height: 60px;
+    /* object-fit: Cover; */
+    margin-left: 20px;
+    /* padding: auto; */
+}
+
+.nav-item {
+  display: inline-block;
+  font-weight:700 ;
+  position: relative;
+  color: #0087ca !important;
+}
+
+.nav-item::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #4085f5;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.nav-item:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+.number-para{
+text-align: center;
+margin-top: 20px;
+margin-left: 5px;}
+.phone-logo{
+object-fit: cover;
+}

@@ -1,0 +1,21 @@
+.aluminium-main-heading{
+  margin-top:20px;
+  padding: 20px;
+  font-size: 35px;
+  color: aliceblue;
+  text-align: center;
+  background-color: #4085f5;
+}
+.aluminium-sub-heading{
+  margin-top:10px;
+  padding: 20px;
+  font-size: 30px;
+}
+.heading-card-title{
+  font-size: 20px;
+  text-align: center;
+}
+.card-container{
+  border: 1px solid #4085f5;
+  min-width: 200px;
+}

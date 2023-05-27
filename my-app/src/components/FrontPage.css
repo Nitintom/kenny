@@ -1,0 +1,18 @@
+
+.card-title-main{
+    font-size: 30px;
+    font-weight: 700;
+    color: #4085f5;
+    text-align: center;
+}
+.img-conainer{
+    height: 90vh;
+    width: 90vw;
+
+}
+.card-content{
+    text-align: center;
+}
+.img-fluid{
+    border: 1px solid #4085f5 ;
+}

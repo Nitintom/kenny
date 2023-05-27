@@ -1,0 +1,37 @@
+.main-Container{
+    margin-top: 100px;    
+}
+.main-product-conainer{
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 1px solid #3F71EA;
+    max-width: 500px;
+    /* height: 500px; */
+}
+.product-img{
+    height: 300px;
+
+}
+.card-title{
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    text-decoration: none;
+    background-color: #3F71EA;
+}
+.card-body{
+    text-align: center;
+}
+.button-container{
+    text-align: center;
+}
+.gif-img{
+    
+}
+@media only screen and (max-width: 600px) {
+    .gif-img {
+      margin-left: 32%;
+    }
+  }

@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card-container{
+margin-top: 100px;
+}
+.Card-content{
+    text-align: start;
+    margin-top: 120px;
+    margin-left: 40px;
+}
+h5{
+    font-size: 50px;
+}
+.Header-Para{
+    font-size: 30px;
+}
+.card-heading{
+    color: #0087ca !important;
+text-align: center;
+font-weight: 500;
+}

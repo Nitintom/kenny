@@ -1,0 +1,14 @@
+.common-heading{
+    background-color: #0087ca !important;
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: 500;
+}
+.contact-inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.text-area{
+    
+}
